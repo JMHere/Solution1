@@ -9,6 +9,8 @@ int main()
     short value2 = 2;
     int ival = 3;
 
+    std::cout << "Git\n";
+
     std::cout << "Hello World!\n";
     std::cout << ivalue;
     std::cout << value2 + 8;
